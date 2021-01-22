@@ -1,5 +1,5 @@
 ## Python
-Here, in this repo I am going to solve the basic pyhon projects
+Here, in this repo I am going to solve the basic python projects
 
 #### Project 1: Creating Acronyms using Python
 
